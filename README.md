@@ -7,5 +7,5 @@ Each paper has a Research Summary in [Research Summary Folder](Research_Summary/
 
 - [Paper 1 - 1909.07452.pdf](Research_Paper/1909.07452.pdf)
   - **Blockchain based Aggregator Free Federated Learning**
-  - Research Summary [Here](Research_Summuary/190907452_Summary.md)
-- 
+  - Research Summary [Here](Research_Summary/190907452_Summary.md)
+-
