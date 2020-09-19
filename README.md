@@ -8,7 +8,7 @@ A repo created for keeping track of research progress, and some highlights and t
 ## Paper List
 
 - [Paper 1 - 1909.07452.pdf](Research_Paper/1909.07452.pdf)
-  - **Blockchain based Aggregator Free Federated Learning**
+  - **Paper Tittle - Blockchain based Aggregator Free Federated Learning**
   - Research Summary [Here](Research_Summary/190907452_Summary.md)
 - Paper 2 - 
 
